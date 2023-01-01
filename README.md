@@ -1,16 +1,25 @@
-# weather
+# Weather
 
-A new Flutter project.
+A weather App based on Flutter & Dart that displays your local weather in more detailed way with a Short Daily Thought/Quote.
 
-## Getting Started
+## About App
 
-This project is a starting point for a Flutter application.
+This Weather App shows
+  - Current Temperature.
+  - Humidity
+  - Pressure
+  - Wind Speed
+  - Air Quality Index.<br>
+  
+We can change parameters like
+  - City Name
+  - User Name
+  - Reload Short Quotes
+  
+-This App uses Material 3 Android Design.<br>
+-Used OpenWeather API.<br>
+-Used Flutter native State Management technique.
 
-A few resources to get you started if this is your first Flutter project:
+<img src="https://user-images.githubusercontent.com/96718201/210165929-9841b891-7991-433e-af81-acf2d95a85b4.jpg" width="300"> | <img src="https://user-images.githubusercontent.com/96718201/210165931-035b9f16-92df-4cf7-80de-223cbe6a9827.jpg" width="300"> | <img src="https://user-images.githubusercontent.com/96718201/210165933-98297875-1230-4fd1-b31a-a7aaf0988a03.jpg" width="300">
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
